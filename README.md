@@ -16,7 +16,7 @@ Hello! I'm Nguyen Phuc Nhan, a student of Ho Chi Minh City University ò Technol
 
 Here are some projects I've worked on or I'm currently involved in:
 
-1. **[Website Introduce Myself & Contact](phucnhan289.great-site.net/1/)**: Brief description of the project and your role.
+1. **[Website Introduce Myself & Contact](phucnhan289.great-site.net/1/)**: I initiated this project during my high school years when I first delved into Front-end development. The primary goal was to introduce myself through a website. As a part of this learning journey, I ventured into the basics of back-end development, exploring PHP and SQL to create a functional contact box.
 
 ## Contact
 
