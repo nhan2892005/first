@@ -14,10 +14,13 @@ Greetings! I'm Nguyen Phuc Nhan, a Computer Science student at Ho Chi Minh City 
 ## Achievements
 
 ### Competitive Programming:
-- **Competitive Programming for Secondary Student at Phu Yen Province, Viet Nam:** Second Prize - 2017
-- **Computer Science for Younger at Phu Yen:** Fourth Prize - 2018
-- **Competitive Programming for High School Student at Phu Yen:** Second Prize - 2021 & 2022
-- **Competition to choose a team to join National Competitive Programming:** Top 7 - 2022
+
+| Competition                                                  | Prize           | Year   |
+|--------------------------------------------------------------|-----------------|--------|
+| Competitive Programming for Secondary Student at Phu Yen Province, Viet Nam | Second Prize    | 2017   |
+| Computer Science for Younger at Phu Yen                        | Fourth Prize    | 2018   |
+| Competitive Programming for High School Student at Phu Yen      | Second Prize    | 2021 & 2022 |
+| Competition to choose a team to join National Competitive Programming | Top 7         | 2022   |
 
 ### Education:
 - **Accepted into my dream university:** Ho Chi Minh City University of Technology - 2023
